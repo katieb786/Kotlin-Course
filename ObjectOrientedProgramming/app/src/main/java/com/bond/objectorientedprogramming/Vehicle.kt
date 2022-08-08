@@ -10,6 +10,6 @@ open class Vehicle {
     {
         println("Type : $type")
         println("Model : $model")
-        println("Max Speed :$maxSpeed")
+        println("Max Speed : $maxSpeed")
     }
 }

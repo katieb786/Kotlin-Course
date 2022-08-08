@@ -1,6 +1,6 @@
 package com.bond.objectorientedprogramming
 
-class Car : Vehicle() {
+class Motorcycle : Vehicle() {
 
 
 
